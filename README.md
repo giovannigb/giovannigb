@@ -1,7 +1,16 @@
--Desenvolvendo profissionalmente desde 2017
--Stack Principal: Angular|C#|SQL Server
+# Oi, Eu sou o Giovanni(Gio)
 
+* 📌 Natural de Porto Alegre (RS) 
+* 🎓Cursando Análise e Desenvolvimento de Sistemas
+* 📚 5+ Anos de experiência como programador
 
+ <blockquote>
+  <p>
+  Os líderes do futuro são os que empoderam os outros.
+ </p>
+ -Bill Gates
+ </blockquote>
+ 
  ##
  <div align="center">
   <a href="https://github.com/giovannigb" target="_blank">
