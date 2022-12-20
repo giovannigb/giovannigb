@@ -1,3 +1,6 @@
+-Desenvolvendo profissionalmente desde 2017
+-Stack Principal: Angular|C#|SQL Server
+
 
  ##
  <div align="center">
