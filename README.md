@@ -9,6 +9,6 @@ giovannigb/giovannigb is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannigb&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannigb&layout=compact&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannigb&layout=compact&theme=transparent)
 
