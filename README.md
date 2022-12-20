@@ -1,11 +1,9 @@
 
  ##
  <div align="center">
-  <a href="https://github.com/ferrarilucas" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferrarilucas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/giovannigb" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannigb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannigb&layout=compact&langs_count=7&theme=github_dark"/>
-  <img src="https://github-profile-trophy.vercel.app/?custom_title=&amp;username=giovannigb&amp;column=7&amp;theme=algolia&amp;margin-w=4"style="max-width: 100%;">
-  </a>
 
  ##
  
