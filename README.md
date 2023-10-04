@@ -1,3 +1,7 @@
+<img align="right" height="590em" src="https://gist.githubusercontent.com/giovannigb/25916b0c2fd1a4922bded243e16d6da9/raw/72db9a3c2adb692d2b312c4890bd87dea114be78/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mayk Brito</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+
 # Oi, Eu sou o Giovanni(Gio)
 
 * 📌 Natural de Porto Alegre (RS) 
